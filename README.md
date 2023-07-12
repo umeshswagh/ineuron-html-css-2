@@ -5,7 +5,6 @@
 ![image](https://img.shields.io/badge/HTML-CSS-orange)
 ![image](https://img.shields.io/badge/Project-02-blue)
 
-![image](https://img.shields.io/badge/Rohtash-Talan-blue)
 
 [<img src= "https://img.shields.io/badge/projcet live link-10b?style=for-the-badge&logo=&logoColor=white" />](https://ineuron-html-css-2.netlify.app/)
 
